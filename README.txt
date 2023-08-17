@@ -1,1 +1,1 @@
-A small working game written in java as a final project for my 300 level programming class.
+A small working game written in java as a final project for my 300 level programming class. The goal of the game is to get the character to the end by inputting the correct directional keys to reach the end of the level.
